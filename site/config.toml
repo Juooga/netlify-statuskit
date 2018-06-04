@@ -1,13 +1,13 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "StatusKit"
+title = "Juooga Status"
 
 [permalinks]
   incidents = "/incidents/:year/:month/:day/:slug/"
 
 [params]
-  defaultLogo = "https://www.netlify.com/img/press/logos/logomark.svg"
-  faviconsPath = "/images/favicon/"
+  defaultLogo = "https://cdn.juoo.ga/logo/juooga.svg"
+  faviconsPath = "https://cdn.juoo.ga/logo/juooga.ico"
 
 # List of systems monitored in this status page.
 # You'll be able to change their status every time
