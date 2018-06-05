@@ -7,7 +7,7 @@ title = "Juooga Status"
 
 [params]
   defaultLogo = "https://cdn.juoo.ga/logo/juooga.svg"
-  faviconsPath = "https://cdn.juoo.ga/logo/juooga.ico"
+  faviconsPath = "/images/favicon/"
 
 # List of systems monitored in this status page.
 # You'll be able to change their status every time
